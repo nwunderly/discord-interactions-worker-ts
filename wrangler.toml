@@ -1,7 +1,7 @@
-name = "worker-typescript-template"
+name = "discord-interactions-worker-ts"
 type = "javascript"
-zone_id = ""
 account_id = ""
+zone_id = ""
 route = ""
 workers_dev = true
 
